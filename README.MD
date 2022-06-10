@@ -3,6 +3,7 @@
 
 Python project to get districtwise annual rainfall historical data from Indian Metrological Data offical website.
 http://hydro.imd.gov.in/hydrometweb/(S(12xczcij0lp2xf3bi0fyw045))/DistrictRaifall.aspx
+It uses selenium library with Chrome to fetch data into a pandas dataframe and then writes the data to an excel file.
 
 ## Usage/Examples
 
