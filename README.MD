@@ -31,7 +31,8 @@ mdataset.to_excel(r"C:\Users\yaman\Downloads\output.xlsx", sheet_name=today)
 
 ## Screenshots
 
-![App Screenshot](Screenshots/IMD Website.jpg)
-![App Screenshot](Screenshots/Output Excel sheet.png)
+#### Rainfall districtwise data from IMD Website
+![IMD Website](https://github.com/yamanjain/IMDRainfallStatewise/blob/master/Screenshots/IMD%20Website.jpg?raw=true)
 
-
+#### Sample Output Excel Sheet
+![Excel Output](https://github.com/yamanjain/IMDRainfallStatewise/blob/master/Screenshots/Output%20Excel%20sheet.png?raw=true)
